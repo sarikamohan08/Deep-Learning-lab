@@ -1,4 +1,4 @@
-### Deep-learning-Lab 
+### Deep-learning-Lab exercise
 #### 1. Exploring fashion minst data (inbuilt in tf)
         1.preprocess
         2.design architecture
