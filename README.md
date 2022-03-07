@@ -3,7 +3,7 @@
         1.preprocess
         2.design architecture
         3.fit the model
-        4.evaluate the mode
+        4.evaluate the model
         5.plot the validation loss and accuracy
         6.predict with test dataset image
         7.predict with user given image(apply all preprocess steps and predict using  loaded model)
