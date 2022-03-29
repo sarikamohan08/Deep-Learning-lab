@@ -7,3 +7,8 @@
         5.plot the validation loss and accuracy
         6.predict with test dataset image
         7.predict with user given image(apply all preprocess steps and predict using  loaded model)
+
+#### 2. Gender classification
+        1. using image processing and ANN
+        2. using CNN with data augmentation
+        3. using CNN without data augmentation
